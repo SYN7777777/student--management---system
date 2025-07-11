@@ -68,4 +68,3 @@ A full-stack Student Management System built with **React**, **Node.js**, **Expr
 - ✅ Search by name
 - ✅ Filter by class
 - ✅ Works with pagination
-- ✅ Improved responsive UX with smart page navigation

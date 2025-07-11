@@ -11,10 +11,10 @@ import {
 
 import StudentTable from '../../components/students/StudentTable';
 import Filters from '../../components/students/Filters';
-import Pagination from '../../components/students/Pagination';
 import StudentFormModal from '../../components/students/StudentFormModal';
 import ImportForm from '../../components/students/ImportForm';
 import ExportButton from '../../components/students/ExportButton';
+import { Pagination } from '../../components/students/Pagination';
 
 const StudentsPage = () => {
   const { user, token } = useSelector((state) => state.auth);
